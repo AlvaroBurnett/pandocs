@@ -12,8 +12,8 @@ title: "Pan Docs"
 	- [Foreword](#foreword)
 	- [Authors](#authors)
 	- [Specifications](#specifications)
-	- [Memory Map](#memory-map)
 	- [System Architecture] (#system-architecture)
+	- [Memory Map](#memory-map)
 - I/O Ports
 	- [Video Display](#video-display)
 	- [Sound Controller](#sound-controller)
@@ -65,13 +65,13 @@ title: "Pan Docs"
 
 !INCLUDE "Specifications.md"
 
-# Memory Map
-
-!INCLUDE "Memory_Map.md", 1
-
 # System Architecture
 
 !INCLUDE "System_Architecture.md", 1
+
+# Memory Map
+
+!INCLUDE "Memory_Map.md", 1
 
 # Video Display
 
